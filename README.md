@@ -10,3 +10,5 @@ This map was created through a combination of ArcGIS Online, ArcServer, and an E
 The intital story map application template was downloaded from: http://www.arcgis.com/home/item.html?id=36818676b74b453facef972ee5d90114
 
 It was further customized to give it the IDFG look and feel and to add more functionality, such as the basemap picker.
+
+View the application: http://fishandgame.idaho.gov/ifwis/maps/idahobirdingtrail/
